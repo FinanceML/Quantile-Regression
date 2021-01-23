@@ -1,6 +1,6 @@
 # Quantile-Regression
 This code is a section of the article: "Linear and nonlinear regression with stable errors", wrote by John.P Nolan. 
-This paper believe that, The following algorithm can help us to have more robust regression.
+The following algorithm can help us to have more robust regression.
 
 1- Perform an initial OLS fit to the data.
 
